@@ -1,4 +1,4 @@
-Se ha creado el proyecto con el propósito de automatizar la bitácora de escalados existente en el departamento de Telecomunicaciones N1.
+Se ha creado el proyecto con el propósito de automatizar la bitácora de escalados existente en el departamento de Telecomunicaciones N1. </br>
 El proyecto está programado en PHP, JS, HTML, CSS y SQL; y se han incluido las librerías DataTables, Bootstrap, jQuery, SweetAlert2 y PHPSpreedSheet.
 También se ha utilizado el programa Xampp para establecer la conexión entre la página web y la BBDD mySQL en local.
 Para la instalación de la librería PHPSpreedSheet se requiere el programa Composer: 
