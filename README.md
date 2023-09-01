@@ -10,7 +10,7 @@ https://phpspreadsheet.readthedocs.io/en/latest/#installation </br></br>
 <h2> 1. Página principal (Tratamiento Inditex), está divida por un encabezado y un body. </h2> </br>
 
 ![image](https://github.com/nahupb/bitacora/assets/141838996/289125f9-9077-408d-819b-0a36047ce0b3)
-</br>
+</br></br>
 1a. Encabezado, está dividido por dos enlaces: Resueltos (véase apartado 2) y Nueva entrada. </br>
 ![image](https://github.com/nahupb/bitacora/assets/141838996/422b15f6-fb91-4cea-90b8-60ff984bdd8e)
 </br></br>
