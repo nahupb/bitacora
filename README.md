@@ -6,7 +6,7 @@ https://getcomposer.org/ </br>
 Una vez instalado Composer, podemos proceder con la instalación de la librería PHPSpreadSheet. Instrucciones en el siguiente enlace: </br>
 https://phpspreadsheet.readthedocs.io/en/latest/#installation </br></br>
 Funcionalidades:</br>
-1. Página principal (Tratamiento Inditex), está divida por un encabezado y un body. </br>
+<h1> 1. Página principal (Tratamiento Inditex), está divida por un encabezado y un body. </h1></br>
 ![image](https://github.com/nahupb/bitacora/assets/141838996/af3c5c2f-5f49-4fe7-af3c-52e45ee87c5e) </br>
 1a. Encabezado, está dividido por dos enlaces: Resueltos (véase apartado 2) y Nueva entrada. </br>
 ![image](https://github.com/nahupb/bitacora/assets/141838996/edcc0f2e-7e78-4672-b4f4-c11abbeb3c4f)</br>
@@ -27,6 +27,17 @@ Al pulsar saltará un banner solicitando confirmación. En la BBDD, el valor "NO
 ![image](https://github.com/nahupb/bitacora/assets/141838996/f9e9c9e0-f3a4-43c1-a831-2237893c4674) </br>
 - Eliminar entrada ![image](https://github.com/nahupb/bitacora/assets/141838996/d586113b-662b-43af-a2eb-026538fd6db5): borra la entrada de forma permanente. También solicitará confirmación antes de aplicar los cambios: </br>
 ![image](https://github.com/nahupb/bitacora/assets/141838996/40539cc1-bda6-4f23-bcdb-33d950a99be0) </br>
+- El body también cuenta con el botón  ![image](https://github.com/nahupb/bitacora/assets/141838996/d980c9c5-b043-41a1-b34c-e5621120e401)
+para exportar todos los datos de la tabla a un excel en formato xlsx. Se han intentado asemejar todo lo posible los estilos con los del excel actual. Fichero de ejemplo: </br></br>
+[bitacora.xlsx](https://github.com/nahupb/bitacora/files/12497266/bitacora.xlsx) </br>
+
+<h1> 2. Resueltos, está divida por un encabezado y un body. </h1></br>
+![image](https://github.com/nahupb/bitacora/assets/141838996/ba4811fb-71b4-4620-9bb1-5df74b18f912) </br>
+Las funcionalidades son las mismas que en Tratamiento Inditex, únicamente se ha modificado el botón de editar por el de reabrir ![image](https://github.com/nahupb/bitacora/assets/141838996/97359d17-1abf-4cbb-86bc-133de0f64dad)</br>
+Al pulsar el botón, saltará un banner solicitando confirmación. En la BBDD, el valor "SI" se modificará por "NO" en la columna RESUELTO, por lo que el ticket se eliminará de Resueltos y lo podremos visualizar en el apartado Tratamiento Inditex. </br>
+![image](https://github.com/nahupb/bitacora/assets/141838996/6acf8497-4c03-47fb-b78f-2f28f2757927)
+
+
 
 
 
