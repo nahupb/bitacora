@@ -22,7 +22,8 @@ El script se asegura de que cada campo no esté vacío y que el string introduci
 
 1b. El body está compuesto por un DataTable que muestra todos los tickets almacenados en la BBDD bitacora. En la columna Acción tenemos tres botones para editar, resolver o eliminar una entrada. </br>
  ![image](https://github.com/nahupb/bitacora/assets/141838996/4e4f229f-06fd-4ad4-84cc-f8ec73fc1c58) </br></br>
-- Editar entrada ![image](https://github.com/nahupb/bitacora/assets/141838996/876bde6d-fbff-4909-969a-6bc510cb1d83)
+- Editar entrada ![image](https://github.com/nahupb/bitacora/assets/141838996/12397f1a-2179-45d9-be6a-26823b64af66)
+
 : recoge de la BBDD toda la información perteneciente a el ticket seleccionado. </br>
 ![image](https://github.com/nahupb/bitacora/assets/141838996/1b2b7f79-96fc-42dd-8284-b9ff3398cff0) </br></br>
 Al igual que en la creación de un ticket, los parámetros introducidos en la edición deben seguir un formato. </br>
