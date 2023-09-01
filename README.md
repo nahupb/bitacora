@@ -4,4 +4,6 @@ También se ha utilizado el programa Xampp para establecer la conexión entre la
 Como requisito para la instalación de la librería PHPSpreadSheet se requiere el programa Composer: </br>
 https://getcomposer.org/ </br>
 Una vez instalado Composer, podemos proceder con la instalación de la librería PHPSpreadSheet: </br>
-https://phpspreadsheet.readthedocs.io/en/latest/#installation 
+https://phpspreadsheet.readthedocs.io/en/latest/#installation </br>
+
+![image](https://github.com/nahupb/bitacora/assets/141838996/79182ba4-08fe-4e3d-bee7-b51b802dff7b)
