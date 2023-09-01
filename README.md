@@ -6,7 +6,7 @@ https://getcomposer.org/ </br>
 Una vez instalado Composer, podemos proceder con la instalación de la librería PHPSpreadSheet. Instrucciones en el siguiente enlace: </br>
 https://phpspreadsheet.readthedocs.io/en/latest/#installation </br></br>
 
-<h1>Funcionalidades: <h1> 
+<h1>Funcionalidades<h1> 
 <h2> 1. Página principal (Tratamiento Inditex), está divida por un encabezado y un body. </h2>
 ![image](https://github.com/nahupb/bitacora/assets/141838996/af3c5c2f-5f49-4fe7-af3c-52e45ee87c5e) </br></br>
 
