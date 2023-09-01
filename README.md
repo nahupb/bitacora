@@ -10,7 +10,7 @@ Funcionalidades:</br>
 ![image](https://github.com/nahupb/bitacora/assets/141838996/af3c5c2f-5f49-4fe7-af3c-52e45ee87c5e) </br>
 1a. Encabezado, está dividido por dos enlaces: Resueltos (véase apartado 2) y Nueva entrada. </br>
 ![image](https://github.com/nahupb/bitacora/assets/141838996/edcc0f2e-7e78-4672-b4f4-c11abbeb3c4f)</br>
-- Nueva entrada cargará un formulario con los campos necesarios para la creación de un ticket. La entrada se creará en la BBDD con la columna RESUELTO="NO" por defecto. </br>
+- Nueva entrada cargará un formulario con los campos necesarios para la creación de un ticket. Por defecto, la entrada se creará en la BBDD con el valor "NO" en la columna RESUELTO. </br>
 ![image](https://github.com/nahupb/bitacora/assets/141838996/299b2daa-af60-4cb7-b695-43b4eb135753)</br>
 - El script se asegura de que cada campo no esté vacío y que el string introducido siga el formato deseado. Por ejemplo: </br>
 ![image](https://github.com/nahupb/bitacora/assets/141838996/89a89a4a-b994-443d-a8d7-1693d73b2b51) </br>
@@ -22,20 +22,17 @@ Funcionalidades:</br>
 ![image](https://github.com/nahupb/bitacora/assets/141838996/1b2b7f79-96fc-42dd-8284-b9ff3398cff0) </br>
 - Al igual que en la creación de un ticket, los parámetros introducidos en la edición deben seguir un formato. </br>
 ![image](https://github.com/nahupb/bitacora/assets/141838996/9c53c85f-1a99-441e-92ca-2be7f70f7f06) </br>
+- Resolver entrada ![image](https://github.com/nahupb/bitacora/assets/141838996/31617505-6201-4000-841a-f7c151fda948):
+Al pulsar saltará un banner solicitando confirmación. En la BBDD, el valor "NO" se modificará por "SI" en la columna RESUELTO, por lo que el ticket se eliminará de Tratamiento Inditex y lo podremos visualizar en el apartado Resueltos: </br>
+![image](https://github.com/nahupb/bitacora/assets/141838996/f9e9c9e0-f3a4-43c1-a831-2237893c4674) </br>
+- Eliminar entrada ![image](https://github.com/nahupb/bitacora/assets/141838996/d586113b-662b-43af-a2eb-026538fd6db5): borra la entrada de forma permanente. Pedirá confirmación antes de aplicar los cambios: </br>
+![image](https://github.com/nahupb/bitacora/assets/141838996/40539cc1-bda6-4f23-bcdb-33d950a99be0) </br>
 
 
 
 
 
 
-
-
-Botón editar</br>
-
-
-
-Index</br>
-![image](https://github.com/nahupb/bitacora/assets/141838996/af3c5c2f-5f49-4fe7-af3c-52e45ee87c5e) </br>
 
 
 
