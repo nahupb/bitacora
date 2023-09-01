@@ -8,11 +8,12 @@ https://phpspreadsheet.readthedocs.io/en/latest/#installation </br></br>
 
 <h1>Funcionalidades<h1> 
 <h2> 1. Página principal (Tratamiento Inditex), está divida por un encabezado y un body. </h2> </br>
-![image](https://github.com/nahupb/bitacora/assets/141838996/af3c5c2f-5f49-4fe7-af3c-52e45ee87c5e)</br></br>
-
+![image](https://github.com/nahupb/bitacora/assets/141838996/3ce25b3c-ffbd-4baa-97d5-843819bd31cb)
+</br></br>
 
 1a. Encabezado, está dividido por dos enlaces: Resueltos (véase apartado 2) y Nueva entrada. </br>
-![image](https://github.com/nahupb/bitacora/assets/141838996/3ce25b3c-ffbd-4baa-97d5-843819bd31cb)
+![image](https://github.com/nahupb/bitacora/assets/141838996/422b15f6-fb91-4cea-90b8-60ff984bdd8e)
+
 </br></br>
 - Nueva entrada cargará un formulario con los campos necesarios para la creación de un ticket. Por defecto, la entrada se creará en la BBDD con el valor "NO" en la columna RESUELTO. </br>
 ![image](https://github.com/nahupb/bitacora/assets/141838996/299b2daa-af60-4cb7-b695-43b4eb135753)</br></br>
