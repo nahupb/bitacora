@@ -13,9 +13,9 @@ https://phpspreadsheet.readthedocs.io/en/latest/#installation
 Está dividida por un encabezado y un body.
 > ![image](https://github.com/nahupb/bitacora/assets/141838996/289125f9-9077-408d-819b-0a36047ce0b3).
 
-- **Encabezado,** está dividido por dos enlaces: Resueltos (véase apartado 2) y Nueva entrada. ![image](https://github.com/nahupb/bitacora/assets/141838996/422b15f6-fb91-4cea-90b8-60ff984bdd8e).
+- **Encabezado,** está dividido por dos enlaces: Resueltos (véase apartado 2) y Nueva entrada. ![image](https://github.com/nahupb/bitacora/assets/141838996/422b15f6-fb91-4cea-90b8-60ff984bdd8e)
     - **Nueva entrada** cargará un formulario con los campos necesarios para la creación de un ticket. Por defecto, la entrada se creará en la BBDD con el valor "NO" en la columna RESUELTO. ![image](https://github.com/nahupb/bitacora/assets/141838996/c414e6be-ce3e-440b-a737-bb36b4e3731c) </br>
-El script se asegura de que cada campo no esté vacío y que el string introducido siga el formato deseado. Por ejemplo: ![image](https://github.com/nahupb/bitacora/assets/141838996/89a89a4a-b994-443d-a8d7-1693d73b2b51).
+El script se asegura de que cada campo no esté vacío y que el string introducido siga el formato deseado. Por ejemplo: ![image](https://github.com/nahupb/bitacora/assets/141838996/89a89a4a-b994-443d-a8d7-1693d73b2b51)
 
 - **Body,** está compuesto por una DataTable que muestra todos los tickets almacenados en la BBDD bitacora. En la columna Acción tenemos tres botones para editar, resolver o eliminar una entrada. ![image](https://github.com/nahupb/bitacora/assets/141838996/4e4f229f-06fd-4ad4-84cc-f8ec73fc1c58)
     - **Editar entrada** ![image](https://github.com/nahupb/bitacora/assets/141838996/869f3cef-c44a-475c-9de5-571baa3c9094)**:**
@@ -26,7 +26,7 @@ al pulsar saltará un banner solicitando confirmación. En la BBDD, el valor "NO
     - **Eliminar entrada ![image](https://github.com/nahupb/bitacora/assets/141838996/d586113b-662b-43af-a2eb-026538fd6db5):** borra la entrada de forma permanente. También solicitará confirmación antes de aplicar los cambios: ![image](https://github.com/nahupb/bitacora/assets/141838996/40539cc1-bda6-4f23-bcdb-33d950a99be0)
     - El body también cuenta con el botón ![image](https://github.com/nahupb/bitacora/assets/141838996/e24f3a4b-5c63-4e87-b060-f9b8112071e2)
 para exportar todos los datos de la tabla a un excel en formato xlsx. Se ha intentado que los estilos se asemejen lo máximo posible a los del excel actual. Fichero de ejemplo:
-> [bitacora.xlsx](https://github.com/nahupb/bitacora/files/12497266/bitacora.xlsx) </br></br>
+> [bitacora.xlsx](https://github.com/nahupb/bitacora/files/12497266/bitacora.xlsx)
 
 ## 2. Resueltos
 
