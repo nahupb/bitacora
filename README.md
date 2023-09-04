@@ -9,7 +9,7 @@ La página está compuesta por un encabezado y un body.
 
 - **Encabezado,** consta de dos enlaces: Resueltos (véase apartado 2) y Nueva entrada. ![image](https://github.com/nahupb/bitacora/assets/141838996/422b15f6-fb91-4cea-90b8-60ff984bdd8e)
     - **Nueva entrada** cargará un formulario con los campos necesarios para la creación de un ticket. Por defecto, la entrada se creará en la BBDD con el valor "NO" en la columna RESUELTO. ![image](https://github.com/nahupb/bitacora/assets/141838996/c414e6be-ce3e-440b-a737-bb36b4e3731c) </br>
-El script se asegura de que cada campo no esté vacío y que el string introducido siga el formato deseado. Por ejemplo: ![image](https://github.com/nahupb/bitacora/assets/141838996/89a89a4a-b994-443d-a8d7-1693d73b2b51)
+El script se asegura de que cada campo no esté vacío y que el string introducido siga el formato deseado. ![image](https://github.com/nahupb/bitacora/assets/141838996/89a89a4a-b994-443d-a8d7-1693d73b2b51)
 
 - **Body:** está compuesto por una tabla que muestra todos los tickets almacenados en la BBDD. En la columna Acción tenemos tres botones para editar, resolver o eliminar una entrada. ![image](https://github.com/nahupb/bitacora/assets/141838996/4e4f229f-06fd-4ad4-84cc-f8ec73fc1c58)
     - **Editar entrada** ![image](https://github.com/nahupb/bitacora/assets/141838996/869f3cef-c44a-475c-9de5-571baa3c9094)**:**
