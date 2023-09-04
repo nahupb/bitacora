@@ -21,6 +21,9 @@ al hacer clic saltará un banner solicitando confirmación. En la BBDD, el valor
 > [!NOTE]
 > El body también cuenta con el botón ![image](https://github.com/nahupb/bitacora/assets/141838996/e24f3a4b-5c63-4e87-b060-f9b8112071e2)
 para exportar todos los datos de la tabla a un excel en formato xlsx. Se ha intentado que los estilos se asemejen lo máximo posible a los del excel actual. Fichero de ejemplo: [bitacora.xlsx](https://github.com/nahupb/bitacora/files/12497266/bitacora.xlsx)
+> [!NOTE]
+> En el buscador podemos filtrar por cualquier palabra o frase ![image](https://github.com/nahupb/bitacora/assets/141838996/fd6c48ce-a1e1-42b6-84aa-f15efd49eab9)
+
 
 ## 2. Resueltos
 
