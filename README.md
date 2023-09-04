@@ -37,5 +37,10 @@ Al pulsar el botón, saltará un banner solicitando confirmación. En la BBDD, e
 
 ## Librerías
 
+- DataTables: https://datatables.net/
+- Bootstrap: https://getbootstrap.com/
+- jQuery: https://jquery.com/
+- SweetAlert2: https://sweetalert2.github.io/
+- Xampp: https://www.apachefriends.org/es/index.html
 - Composer: https://getcomposer.org/
 - PHPSpreadSheet: https://phpspreadsheet.readthedocs.io/en/latest/#installation
