@@ -10,7 +10,7 @@ https://phpspreadsheet.readthedocs.io/en/latest/#installation
 # Funcionalidades
 ## 1. Página principal (Tratamiento Inditex)
 
-Está dividida por un encabezado y un body.
+La página está compuesta por un encabezado y un body.
 > ![image](https://github.com/nahupb/bitacora/assets/141838996/289125f9-9077-408d-819b-0a36047ce0b3).
 
 - **Encabezado,** consta de dos enlaces: Resueltos (véase apartado 2) y Nueva entrada. ![image](https://github.com/nahupb/bitacora/assets/141838996/422b15f6-fb91-4cea-90b8-60ff984bdd8e)
@@ -29,7 +29,7 @@ para exportar todos los datos de la tabla a un excel en formato xlsx. Se ha inte
 
 ## 2. Resueltos
 
-Está dividida por un encabezado y un body.
+La página está compuesta por un encabezado y un body.
 > ![image](https://github.com/nahupb/bitacora/assets/141838996/ba4811fb-71b4-4620-9bb1-5df74b18f912) 
 
 Las funcionalidades son las mismas que en Tratamiento Inditex, únicamente se ha modificado el botón de editar por el de reabrir ![image](https://github.com/nahupb/bitacora/assets/141838996/97359d17-1abf-4cbb-86bc-133de0f64dad)
