@@ -9,6 +9,7 @@ https://phpspreadsheet.readthedocs.io/en/latest/#installation
 
 # Funcionalidades
 ## 1. Página principal (Tratamiento Inditex)
+
 Está divida por un encabezado y un body.
 > ![image](https://github.com/nahupb/bitacora/assets/141838996/289125f9-9077-408d-819b-0a36047ce0b3).
 
