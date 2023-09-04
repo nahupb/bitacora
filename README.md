@@ -1,7 +1,5 @@
 # Introducción
-> Se ha creado el proyecto con el propósito de automatizar la bitácora de escalados existente en el departamento de Telecomunicaciones N1. Está programado en PHP, JavaScript, HTML, CSS y SQL; y se han incluido las [librerías](#librerías) DataTables, Bootstrap, jQuery, SweetAlert2 y PHPSpreadSheet. </br>
-También se ha utilizado el programa Xampp para establecer la conexión entre la página web y la BBDD MySQL en local. </br>
-Como requisito para la instalación de la librería PHPSpreadSheet se requiere el programa Composer. Una vez instalado, podemos proceder con la instalación de la librería PHPSpreadSheet.</br>
+> El proyecto nace con el propósito de automatizar la bitácora de escalados existente en el departamento de Telecomunicaciones N1.
 
 # Funcionalidades
 ## 1. Página principal (Tratamiento Inditex)
