@@ -12,7 +12,7 @@ https://phpspreadsheet.readthedocs.io/en/latest/#installation </p></br></br>
 
 ![image](https://github.com/nahupb/bitacora/assets/141838996/289125f9-9077-408d-819b-0a36047ce0b3)
 </br></br>
-1a. Encabezado, está dividido por dos enlaces: Resueltos (véase apartado 2) y Nueva entrada. </br>
+#### Encabezado, está dividido por dos enlaces: Resueltos (véase apartado 2) y Nueva entrada. </br>
 ![image](https://github.com/nahupb/bitacora/assets/141838996/422b15f6-fb91-4cea-90b8-60ff984bdd8e)
 </br>
 - Nueva entrada cargará un formulario con los campos necesarios para la creación de un ticket. Por defecto, la entrada se creará en la BBDD con el valor "NO" en la columna RESUELTO. </br>
