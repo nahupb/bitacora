@@ -14,7 +14,8 @@ https://phpspreadsheet.readthedocs.io/en/latest/#installation
 * **Encabezado,** está dividido por dos enlaces: Resueltos (véase apartado 2) y Nueva entrada.
 > ![image](https://github.com/nahupb/bitacora/assets/141838996/422b15f6-fb91-4cea-90b8-60ff984bdd8e)
 
-*  **Nueva entrada** cargará un formulario con los campos necesarios para la creación de un ticket. Por defecto, la entrada se creará en la BBDD con el valor "NO" en la columna RESUELTO. </br>
+
+*  **Nueva entrada** cargará un formulario con los campos necesarios para la creación de un ticket. Por defecto, la entrada se creará en la BBDD con el valor "NO" en la columna RESUELTO.
 > ![image](https://github.com/nahupb/bitacora/assets/141838996/c414e6be-ce3e-440b-a737-bb36b4e3731c)
 
 El script se asegura de que cada campo no esté vacío y que el string introducido siga el formato deseado. Por ejemplo:
