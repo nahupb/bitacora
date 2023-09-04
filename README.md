@@ -14,7 +14,7 @@ https://phpspreadsheet.readthedocs.io/en/latest/#installation
 - **Encabezado,** está dividido por dos enlaces: Resueltos (véase apartado 2) y Nueva entrada.
 > ![image](https://github.com/nahupb/bitacora/assets/141838996/422b15f6-fb91-4cea-90b8-60ff984bdd8e)
 
-    - **Nueva entrada** cargará un formulario con los campos necesarios para la creación de un ticket. Por defecto, la entrada se creará en la BBDD con el valor "NO" en la columna RESUELTO.
+- **Nueva entrada** cargará un formulario con los campos necesarios para la creación de un ticket. Por defecto, la entrada se creará en la BBDD con el valor "NO" en la columna RESUELTO.
 > ![image](https://github.com/nahupb/bitacora/assets/141838996/c414e6be-ce3e-440b-a737-bb36b4e3731c)
 
 El script se asegura de que cada campo no esté vacío y que el string introducido siga el formato deseado. Por ejemplo:
@@ -49,6 +49,14 @@ Las funcionalidades son las mismas que en Tratamiento Inditex, únicamente se ha
 Al pulsar el botón, saltará un banner solicitando confirmación. En la BBDD, el valor "SI" se modificará por "NO" en la columna RESUELTO, por lo que el ticket se eliminará de Resueltos y lo podremos visualizar en el apartado Tratamiento Inditex.
 > ![image](https://github.com/nahupb/bitacora/assets/141838996/6acf8497-4c03-47fb-b78f-2f28f2757927)
 
+
+- Elemento de lista 1
+- Elemento de lista 2
+    - Elemento de lista 3
+    - Elemento de lista 4
+        - Elemento de lista 5
+        - Elemento de lista 6
+Elemento de lista 1
 
 
 
