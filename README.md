@@ -2,7 +2,7 @@
 > El proyecto nace con el propósito de automatizar la bitácora de escalados utilizada en el departamento de Telecomunicaciones N1 de Inditex.
 
 # Funcionalidades
-## 1. Página principal (Tratamiento Inditex)
+## 1. Tratamiento Inditex
 
 La página está compuesta por un encabezado y un body.
 > ![image](https://github.com/nahupb/bitacora/assets/141838996/289125f9-9077-408d-819b-0a36047ce0b3).
