@@ -5,7 +5,7 @@ También se ha utilizado el programa Xampp para establecer la conexión entre la
 Como requisito para la instalación de la librería PHPSpreadSheet se requiere el programa Composer. Descarga en el siguiente enlace: </br>
 https://getcomposer.org/ </br>
 Una vez instalado Composer, podemos proceder con la instalación de la librería PHPSpreadSheet. Instrucciones en el siguiente enlace: </br>
-https://phpspreadsheet.readthedocs.io/en/latest/#installation </p></br></br>
+https://phpspreadsheet.readthedocs.io/en/latest/#installation
 
 # Funcionalidades
 ### 1. Página principal (Tratamiento Inditex), está divida por un encabezado y un body.
