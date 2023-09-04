@@ -25,6 +25,9 @@ para exportar todos los datos de la tabla a un excel en formato xlsx. Se ha inte
 > [!NOTE]
 > En el buscador podemos filtrar por cualquier palabra o frase ![image](https://github.com/nahupb/bitacora/assets/141838996/fd6c48ce-a1e1-42b6-84aa-f15efd49eab9)
 
+> [!NOTE]
+>  ![image](https://github.com/nahupb/bitacora/assets/141838996/6d1a5620-eabc-4e27-9590-127ee01fb099)
+
 
 ## 2. Resueltos
 
