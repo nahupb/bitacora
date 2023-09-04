@@ -1,5 +1,5 @@
 # Introducción
-> El proyecto nace con el propósito de automatizar la bitácora de escalados existente en el departamento de Telecomunicaciones N1.
+> El proyecto nace con el propósito de automatizar la bitácora de escalados existente en el departamento de Telecomunicaciones N1 de Inditex.
 
 # Funcionalidades
 ## 1. Página principal (Tratamiento Inditex)
