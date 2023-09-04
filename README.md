@@ -10,9 +10,10 @@ https://phpspreadsheet.readthedocs.io/en/latest/#installation
 # Funcionalidades
 ## Página principal (Tratamiento Inditex), está divida por un encabezado y un body.
 > ![image](https://github.com/nahupb/bitacora/assets/141838996/289125f9-9077-408d-819b-0a36047ce0b3).
-
+- Encabezado
+    - Nueva entrada
 - **Encabezado,** está dividido por dos enlaces: Resueltos (véase apartado 2) y Nueva entrada.
-    -**Nueva entrada** cargará un formulario con los campos necesarios para la creación de un ticket. Por defecto, la entrada se creará en la BBDD con el valor "NO" en la columna RESUELTO.
+    - **Nueva entrada** cargará un formulario con los campos necesarios para la creación de un ticket. Por defecto, la entrada se creará en la BBDD con el valor "NO" en la columna RESUELTO.
 > ![image](https://github.com/nahupb/bitacora/assets/141838996/c414e6be-ce3e-440b-a737-bb36b4e3731c).
 El script se asegura de que cada campo no esté vacío y que el string introducido siga el formato deseado. Por ejemplo:
 > ![image](https://github.com/nahupb/bitacora/assets/141838996/89a89a4a-b994-443d-a8d7-1693d73b2b51).
