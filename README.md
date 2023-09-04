@@ -8,7 +8,8 @@ Una vez instalado Composer, podemos proceder con la instalación de la librería
 https://phpspreadsheet.readthedocs.io/en/latest/#installation
 
 # Funcionalidades
-## 1. Página principal (Tratamiento Inditex), está divida por un encabezado y un body.
+## 1. Página principal (Tratamiento Inditex)
+Está divida por un encabezado y un body.
 > ![image](https://github.com/nahupb/bitacora/assets/141838996/289125f9-9077-408d-819b-0a36047ce0b3).
 
 - **Encabezado,** está dividido por dos enlaces: Resueltos (véase apartado 2) y Nueva entrada. ![image](https://github.com/nahupb/bitacora/assets/141838996/422b15f6-fb91-4cea-90b8-60ff984bdd8e).
