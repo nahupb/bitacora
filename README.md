@@ -1,11 +1,11 @@
 <h1>Funcionalidades<h1>
-Se ha creado el proyecto con el propósito de automatizar la bitácora de escalados existente en el departamento de Telecomunicaciones N1. </br>
+<p>Se ha creado el proyecto con el propósito de automatizar la bitácora de escalados existente en el departamento de Telecomunicaciones N1. </br>
 El proyecto está programado en PHP, JavaScript, HTML, CSS y SQL; y se han incluido las librerías DataTables, Bootstrap, jQuery, SweetAlert2 y PHPSpreadSheet. </br>
 También se ha utilizado el programa Xampp para establecer la conexión entre la página web y la BBDD MySQL en local. </br>
 Como requisito para la instalación de la librería PHPSpreadSheet se requiere el programa Composer. Descarga en el siguiente enlace: </br>
 https://getcomposer.org/ </br>
 Una vez instalado Composer, podemos proceder con la instalación de la librería PHPSpreadSheet. Instrucciones en el siguiente enlace: </br>
-https://phpspreadsheet.readthedocs.io/en/latest/#installation </br></br>
+https://phpspreadsheet.readthedocs.io/en/latest/#installation </p></br></br>
 
 <h1>Funcionalidades<h1> 
 <h2> 1. Página principal (Tratamiento Inditex), está divida por un encabezado y un body. </h2> </br>
