@@ -24,7 +24,7 @@ recoge de la BBDD toda la información perteneciente al ticket seleccionado. ![i
 al pulsar saltará un banner solicitando confirmación. En la BBDD, el valor "NO" se modificará por "SI" en la columna RESUELTO, por lo que el ticket se eliminará de Tratamiento Inditex y lo podremos visualizar en el apartado Resueltos: ![image](https://github.com/nahupb/bitacora/assets/141838996/f9e9c9e0-f3a4-43c1-a831-2237893c4674)
     - **Eliminar entrada ![image](https://github.com/nahupb/bitacora/assets/141838996/d586113b-662b-43af-a2eb-026538fd6db5):** borra la entrada de forma permanente. También solicitará confirmación antes de aplicar los cambios: ![image](https://github.com/nahupb/bitacora/assets/141838996/40539cc1-bda6-4f23-bcdb-33d950a99be0)
 
-> [!NOTE]
+> [!NOTA]
 > El body también cuenta con el botón ![image](https://github.com/nahupb/bitacora/assets/141838996/e24f3a4b-5c63-4e87-b060-f9b8112071e2)
 para exportar todos los datos de la tabla a un excel en formato xlsx. Se ha intentado que los estilos se asemejen lo máximo posible a los del excel actual. Fichero de ejemplo: [bitacora.xlsx](https://github.com/nahupb/bitacora/files/12497266/bitacora.xlsx)
 
