@@ -1,3 +1,4 @@
+<h1>Funcionalidades<h1>
 Se ha creado el proyecto con el propósito de automatizar la bitácora de escalados existente en el departamento de Telecomunicaciones N1. </br>
 El proyecto está programado en PHP, JavaScript, HTML, CSS y SQL; y se han incluido las librerías DataTables, Bootstrap, jQuery, SweetAlert2 y PHPSpreadSheet. </br>
 También se ha utilizado el programa Xampp para establecer la conexión entre la página web y la BBDD MySQL en local. </br>
